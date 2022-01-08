@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         UniBo AutoLogin
 // @description  AutoLogin to UniBo IDP by using saved passwords
-// @version      0.1.0
+// @version      0.1.1
 // @author       VaiTon <eyadlorenzo@gmail.com>
 // @match        https://idp.unibo.it/adfs/ls/*
 // @match        https://shib.unibo.it/idp/*
